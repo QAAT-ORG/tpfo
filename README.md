@@ -5,7 +5,12 @@ interacting with it. But the process will be started by this process. Think of t
 
 Goals:
 * Cover as many stats as possible
-* Cross platform
+* Cross platform ( but linux first )
 * Should have a minimal impact on performance of observed process
+
+Readings:
+* https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
+* https://perf.wiki.kernel.org/index.php/Main_Page
+* https://www.man7.org/linux/man-pages/man2/perf_event_open.2.html
 
 Will be written in Rust.
