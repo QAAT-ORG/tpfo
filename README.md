@@ -8,9 +8,11 @@ Goals:
 * Cross platform ( but linux first )
 * Should have a minimal impact on performance of observed process
 
-Readings:
+Readings or refs:
 * https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
 * https://perf.wiki.kernel.org/index.php/Main_Page
-* https://www.man7.org/linux/man-pages/man2/perf_event_open.2.html
+* https://www.youtube.com/watch?v=D53T1Ejig1Q
+* https://ebpf.io/
+* https://www.brendangregg.com/
 
 Will be written in Rust.
