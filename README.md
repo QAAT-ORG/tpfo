@@ -18,6 +18,7 @@ Readings or refs:
 * https://ebpf.io/
 * https://www.brendangregg.com/
   * https://www.brendangregg.com/perf.html
+  * https://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html
 * https://stackoverflow.com/questions/46674444/is-it-possible-to-run-linux-perf-tool-inside-docker-container
   * https://stackoverflow.com/questions/38927895/how-do-you-get-debugging-symbols-working-in-linux-perf-tool-inside-docker-contai
   * https://stackoverflow.com/questions/44745987/use-perf-inside-a-docker-container-without-privileged
