@@ -24,6 +24,10 @@ Readings or refs:
 
 Seems perf_events is so cool for linux, we'll see when we start playing around this.
 
+Interesting project too is pixie ( might serve as inspiration ) : https://github.com/pixie-io/pixie
+
+It uses BPF .. ( which also supports kprobes, uprobes, traces )
+
 Little worries about data output of perf if process is long running, not so much for performance, but I feel storage can be a problem,
 don't know anything now, but we'll get info when this gets a bit bigger than a README.
 
